@@ -11,7 +11,7 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 from pytrends.request import TrendReq
-from pageobjects import Bing
+from pageobjects.pageobjects import Bing
 
 class MyBot:
     """This is the automation web driver object.

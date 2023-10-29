@@ -1,0 +1,8 @@
+kitchen_items = [
+    "Rice", "Chickpeas", "Pulses", "bread", "meat",
+    "Milk", "Bacon", "Eggs", "Rice Cooker", "Sauce",
+    "Chicken Pie", "Apple Pie", "Pudding"
+    ]
+	
+	
+	

@@ -2,7 +2,7 @@ import time
 from nnframework import MyBot
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from pageobjects import RewardHome, Bing, SearchResult, Youtube
+from pageobjects.pageobjects import RewardHome, Bing, SearchResult, Youtube
 
 
 edge_option = webdriver.EdgeOptions()

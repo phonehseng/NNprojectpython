@@ -15,3 +15,4 @@ class SearchResult:
 
 class Youtube:
     youtube_homepage = "https://www.youtube.com/"
+
